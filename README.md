@@ -1,6 +1,6 @@
 <h2>Summary:</h2>
 
-Project in angular and java with Spring boot for managing clients and services rendered
+Project in angular and java with Spring boot for customer management and services rendered
 for registered customers, Project done the front end using Angular and the Back end using
 java with spring boot and maven, using h2 database.
 
