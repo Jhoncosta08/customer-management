@@ -92,7 +92,7 @@ this command is to create a local server on port 4200 of your browser to run the
 - [x] H2 DataBase
 - [x] IntelliJ IDE
 
-#Project
+## Project
 
 <p>
   <img src="https://github.com/Jhoncosta08/customer-management/blob/master/login.png" style="width: auto; max-height: 300px">
