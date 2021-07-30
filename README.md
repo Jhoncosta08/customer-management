@@ -31,6 +31,7 @@ You can access more information about the JDK and JRE:
 You can access more information about Eclipse or IntelliJ at:
 
 Eclipse: [https://www.eclipse.org/]( https://www.eclipse.org/)
+
 IntelliJ: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/) 
 
 - [x] Maven is required to run this project.
