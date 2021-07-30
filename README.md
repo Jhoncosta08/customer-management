@@ -8,26 +8,31 @@ java with spring boot and maven, using h2 database.
 <h2>Requirements guide:</h2>
 
 - [x] Node-js is required to run this project
+
 You can access more information about the node at:
 
 [https://nodejs.org/en/](https://nodejs.org/en/)
 
 - [x] The Angular installed is required to run this project
+
 You can access more information about angular at:
 
 [https://angular.io/](https://angular.io/)
 
 - [x] You need Java installed to run this project
+
 You can access more information about java at:
 
 [https://www.java.com/pt-BR/](https://www.java.com/pt-BR/)
 
 - [x] You need the java-se JDK and JRE to run this project
+
 You can access more information about the JDK and JRE:
 
 [https://www.oracle.com/java/technologies/javase-downloads.html](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 - [x] You need an IDE to run the Back-end(be) in the project's java, it can be used for example: Eclipse or IntelliJ
+
 You can access more information about Eclipse or IntelliJ at:
 
 Eclipse: [https://www.eclipse.org/]( https://www.eclipse.org/)
@@ -35,6 +40,7 @@ Eclipse: [https://www.eclipse.org/]( https://www.eclipse.org/)
 IntelliJ: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/) 
 
 - [x] Maven is required to run this project.
+
 You can access more information about Maven at:
 
 [https://maven.apache.org/](https://maven.apache.org/)
